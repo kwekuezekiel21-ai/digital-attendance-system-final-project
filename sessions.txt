@@ -1,0 +1,5 @@
+CLT101,2026-02-23,3:00pm,2
+F111,Present
+F112,Absent
+F113,Late
+END
